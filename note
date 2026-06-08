@@ -1,6 +1,8 @@
-1. PROMPT 1 -  PROJECT SETUP &  DESIGN 
+L.L.M USED "CHATGPT"
+PROMPTS FOR PERSONNAL PORTFOLIO
 
-Create a modern Personal Portfolio Website for NWAGBARA BLESSING CHIAMAKA, a Full Stack Web Developer and AI Automation Trainee, by generating a complete HTML and Vanilla CSS.
+1. PROMPT 1 -  PROJECT SETUP &  DESIGN 
+Create a  Personal Portfolio Website for NWAGBARA BLESSING CHIAMAKA, a Full Stack Web Developer and AI Automation Trainee, by generating a complete HTML and Vanilla CSS Codes.
 
 Requirements:
 Use semantic HTML structure and vanilla CSS.
@@ -16,7 +18,6 @@ Organize code with comments.
 
 
 2. PROMPT 2 — HEADER & HERO SECTION
-
 a. Header
 Create the Header and Hero Section for the portfolio website.
 Sticky header with a height of 5rem.
@@ -48,7 +49,6 @@ Hamburger menu
 
 
 b. HERO SECTION:
-
 Create a two-column layout.
 a. For the Left side:
 Use H1 - Hi, I'm NWAGBARA BLESSING CHIAMAKA.
