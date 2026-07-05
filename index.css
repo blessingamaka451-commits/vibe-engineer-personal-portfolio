@@ -58,8 +58,8 @@ body{
 
 }
 .logo span:nth-child(1){
-    width:40px;
-    height:40px;
+    width:50px;
+    height:45px;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -102,7 +102,7 @@ body{
     position:relative;
     color:white;
     text-decoration:none;
-    font-size:1.2rem;
+    font-size:1.5rem;
     transition:var(--transition);
 
 }
